@@ -1,0 +1,9 @@
+[
+    {"itemID":"12","nombre_municipio":"AYAPANGO","riesgo":"ERUPCION"},
+{"itemID":"9","nombre_municipio":"CHALCO","riesgo":"ERUPCION"},
+{"itemID":"18","nombre_municipio":"TEMAMATLA","riesgo":"ERUPCION"},
+{"itemID":"16","nombre_municipio":"JUCHITEPEC","riesgo":"ERUPCION - INUNDACION"},
+{"itemID":"10","nombre_municipio":"AMECAMECA","riesgo":"ERUPCION - TEMP_INVIERNO"},
+{"itemID":"14","nombre_municipio":"ECATZINGO","riesgo":"ERUPCION - TEMP_INVIERNO"}
+
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "itemID": "94",
+        "nombre_municipio": "ECATEPEC DE MORELOS",
+        "poblacion": "1,656,107"
+    },
+    {
+        "itemID": "87",
+        "nombre_municipio": "NETZAHUALCÓYOTL",
+        "poblacion": "1,110,565"
+    },
+    {
+        "itemID": "98",
+        "nombre_municipio": "NAUCALPAN DE JUÁREZ",
+        "poblacion": "833,779"
+    },
+    {
+        "itemID": "101",
+        "nombre_municipio": "TOLUCA",
+        "poblacion": "819,561"
+    },
+    {
+        "itemID": "92",
+        "nombre_municipio": "TLALNEPANTLA",
+        "poblacion": "664,225"
+    }
+]

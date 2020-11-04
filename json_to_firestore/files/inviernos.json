@@ -1,0 +1,12 @@
+[
+    {"itemID":"22","nombre_municipio":"EL ORO","riesgo":"TEMP_INVIERNO"},
+{"itemID":"28","nombre_municipio":"JOCOTITLAN","riesgo":"TEMP_INVIERNO"},
+{"itemID":"39","nombre_municipio":"OCOYOACAC","riesgo":"TEMP_INVIERNO"},
+{"itemID":"25","nombre_municipio":"TEMASCALCINGO","riesgo":"TEMP_INVIERNO"},
+{"itemID":"15","nombre_municipio":"IXTAPALUCA","riesgo":"TEMP_INVIERNO - INUNDACION"},
+{"itemID":"30","nombre_municipio":"SAN FELIPE DEL PROGRESO","riesgo":"TEMP_INVIERNO - INUNDACION"},
+{"itemID":"104","nombre_municipio":"TEMOAYA","riesgo":"TEMP_INVIERNO - INUNDACION"},
+{"itemID":"101","nombre_municipio":"TOLUCA","riesgo":"TEMP_INVIERNO - INUNDACION"},
+{"itemID":"106","nombre_municipio":"ZINACANTEPEC","riesgo":"TEMP_INVIERNO - INUNDACION"}
+
+]

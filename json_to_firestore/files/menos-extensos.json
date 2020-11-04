@@ -1,0 +1,22 @@
+[
+        {
+            "itemID": "88",
+            "nombre_municipio": "PAPALOTLA",
+            "superficie": "3.59"
+        },
+        {
+            "itemID": "118",
+            "nombre_municipio": "JALTENCO",
+            "superficie": "3.97"
+        },
+        {
+            "itemID": "67",
+            "nombre_municipio": "ALMOLOYA DEL RIO",
+            "superficie": "6.44"
+        },
+        {
+            "itemID": "84",
+            "nombre_municipio": "CHICONCUAC",
+            "superficie": "6.94"
+        }
+    ]
